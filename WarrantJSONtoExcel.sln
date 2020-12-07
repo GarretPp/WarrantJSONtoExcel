@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarrantJSONtoExcel", "WarrantJSONtoExcel.csproj", "{6740AE65-9328-4ED6-AF72-A15AE6ED4C68}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CoM Data Converter Setup", "..\CoM Data Converter Setup\CoM Data Converter Setup.vdproj", "{65326B27-CFD0-4F09-9858-8025C5908FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6740AE65-9328-4ED6-AF72-A15AE6ED4C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6740AE65-9328-4ED6-AF72-A15AE6ED4C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6740AE65-9328-4ED6-AF72-A15AE6ED4C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6740AE65-9328-4ED6-AF72-A15AE6ED4C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65326B27-CFD0-4F09-9858-8025C5908FE8}.Debug|Any CPU.ActiveCfg = Debug
+		{65326B27-CFD0-4F09-9858-8025C5908FE8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A63DA4-3EE1-4598-A4F5-62F68E591E6C}
+	EndGlobalSection
+EndGlobal
